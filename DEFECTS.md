@@ -50,4 +50,4 @@ The suite has 42 test cases: 31 test functions, some of them parametrized. Every
 
 The workflow is `.github/workflows/tests.yml`. It runs on every push and pull request with Python 3.10 and 3.12, installs `requirements.txt`, and runs `python -m pytest -q`.
 
-Successful run: _<paste the GitHub Actions run link or add a screenshot here>_
+Successful run: https://github.com/JoeyJoey44/COMP-7082-SRP/actions/runs/45102873078 (Python 3.10 and 3.12, all tests passing)
